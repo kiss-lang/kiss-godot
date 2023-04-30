@@ -3,7 +3,8 @@
 	"description": "kiss macros for Godot",
 	"classPath": "src/",
 	"dependencies": {
-		"kiss": ""
+		"kiss": "",
+		"godot": ""
 	},
 	"url": "https://github.com/NQNStudios/kisslang",
 	"contributors": [
